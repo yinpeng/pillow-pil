@@ -1,4 +1,9 @@
-pillow-pil
-==========
+=========================
+Python Pillow-PIL package
+=========================
 
-Pillow wrapper for PIL compatibility
+This is a simple wrapper for Pillow to make it compatible with PIL.
+
+Pillow is a "friendly" PIL fork by Alex Clark and Contributors.
+PIL is the Python Imaging Library by Fredrik Lundh and Contributors.
+
